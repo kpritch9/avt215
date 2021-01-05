@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 1224" style="enable-background:new 0 0 792 1224;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0268BD;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:#F9CF00;}
+	.st3{fill:#C1322C;}
+	.st4{fill:#F1BB00;}
+	.st5{fill:none;}
+	.st6{display:none;}
+	.st7{font-family:'Reross-Quadratic';}
+	.st8{font-size:100px;}
+	.st9{font-size:59px;}
+	.st10{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st11{opacity:0.45;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st12{fill:#FFFFFF;}
+	.st13{font-family:'Ebrima-Bold';}
+	.st14{font-size:33.8274px;}
+	.st15{display:inline;}
+</style>
+<g id="Layer_1">
+	<rect x="154.6" y="66.3" class="st0" width="264.8" height="214.5"/>
+	<path class="st1" d="M74.9,555c69.9-67.2,331.9-280.7,594.9,0.9c9.2,9.9,9.2,25.2,0,35c-263.8,282.6-525.3,68.4-594.9,1
+		C64.4,581.8,64.4,565.1,74.9,555z"/>
+	<circle class="st0" cx="382.3" cy="573.7" r="146.4"/>
+	<circle cx="382.3" cy="573.7" r="87.4"/>
+	<polygon class="st2" points="549.4,1001.8 770.5,692.6 328.2,692.6 	"/>
+	<rect x="211" y="124.4" class="st3" width="24.9" height="289.8"/>
+	<rect x="522.7" y="377.9" class="st4" width="390.1" height="56.3"/>
+	<circle class="st4" cx="263.9" cy="534.3" r="67.7"/>
+	<circle class="st3" cx="522.7" cy="622.1" r="28.6"/>
+	<circle class="st3" cx="461.7" cy="523" r="42.3"/>
+	<rect y="1112.1" class="st5" width="792" height="103.9"/>
+	<text transform="matrix(1 0 0 1 119.8038 1184.8699)" class="st6 st7 st8">magic 8 ball</text>
+	<text transform="matrix(1 0 0 1 433.0871 768.7352)"><tspan x="0" y="0" class="st7 st9">See your</tspan><tspan x="32" y="72" class="st7 st9">future.</tspan></text>
+	<line class="st10" x1="337.7" y1="573.7" x2="40.5" y2="377.9"/>
+	<line class="st11" x1="302.5" y1="661.1" x2="660.3" y2="234.3"/>
+	<rect x="-16.1" y="695.5" transform="matrix(0.866 0.5 -0.5 0.866 501.1913 104.4365)" class="st3" width="143.7" height="583.9"/>
+	<rect x="349.8" y="534.3" class="st5" width="178.9" height="139.4"/>
+	<text transform="matrix(1 0 0 1 349.8416 608.2812)" class="st12 st13 st8">8</text>
+	<g>
+		<rect x="337.7" y="1019" class="st5" width="197.4" height="101.4"/>
+		<text transform="matrix(1 0 0 1 355.0923 1061.9648)" class="st7 st9">magic</text>
+		<circle cx="556.3" cy="1072.2" r="33.9"/>
+		<circle class="st12" cx="556.3" cy="1071.6" r="21.3"/>
+		<rect x="539.6" y="1059.6" class="st5" width="33.1" height="58.1"/>
+		<text transform="matrix(1 0 0 1 546.0094 1084.1952)" class="st7 st14">8</text>
+		<rect x="597.8" y="1080.4" class="st5" width="98.7" height="101.4"/>
+		<text transform="matrix(1 0 0 1 599.6591 1123.3401)" class="st7 st9">ball</text>
+	</g>
+</g>
+<g id="Layer_2" class="st6">
+	<text transform="matrix(1 0 0 1 -711.5776 134.2817)" class="st15 st7 st8">Lorem ipsum</text>
+	<text transform="matrix(1 0 0 1 -513.2614 289.2114)" class="st15 st8" style="font-family:'CarlMarx-Regular';">Lorem ipsum</text>
+	
+		<image style="display:inline;overflow:visible;" width="564" height="845" xlink:href="BA6B2347.jpg"  transform="matrix(1 0 0 1 -701.3239 352.6267)">
+	</image>
+	<g class="st15">
+		<rect x="-1059.4" y="916.9" transform="matrix(0.7789 0.6272 -0.6272 0.7789 487.1977 901.845)" width="48.1" height="450"/>
+		<circle class="st4" cx="-895.1" cy="967.5" r="24.3"/>
+	</g>
+	<g class="st15">
+		<rect x="-935.9" y="921.1" transform="matrix(0.7789 0.6272 -0.6272 0.7789 517.1449 825.2968)" width="48.1" height="450"/>
+		<circle class="st3" cx="-771.5" cy="971.7" r="24.3"/>
+	</g>
+	<g class="st15">
+		<rect x="-1073.9" y="842.6" transform="matrix(0.7789 0.6272 -0.6272 0.7789 437.4008 894.4474)" width="48.1" height="450"/>
+		<circle class="st0" cx="-909.5" cy="893.1" r="24.3"/>
+	</g>
+</g>
+</svg>

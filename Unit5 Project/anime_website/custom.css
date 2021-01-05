@@ -1,0 +1,80 @@
+
+/* Remove margin in all browsers */
+body {
+  margin: 0;
+}
+
+div.banner {
+	display: block;
+	height: 50em;
+
+}
+
+#navigation {	
+    width: 600px;
+    margin: 0 auto;
+}
+
+#title {
+	height:100px;
+	text-align: center;
+}
+
+div.layout {
+	display:block;
+}
+
+nav{
+    display:block; 
+    overflow:auto;
+}
+nav a{
+    float:left;
+    text-align:center;
+    width:25%;
+}
+
+.letter {
+  display: inline-block;
+  opacity: 0;
+}
+
+div.separator {
+  display: inline-block;
+}
+
+#title-block {
+	background-color: #eee;
+}
+
+/************ EYE ANIMATION ************/
+
+#eye {
+	width: 400px;
+	padding: 10em;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+
+/************ EYE SHAPES ************/
+
+div.animate {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+}
+
+#red-rect {
+	width: 100px;
+	height: 300px;
+	top: 150px;
+	left: 300px;
+	background-color: #C1322C;
+}
